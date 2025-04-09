@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 tareas.txt
+=======
+tareas.txt
+>>>>>>> ac2a7ba9c0f8a74b5cff67be38628b85c24c0f21
